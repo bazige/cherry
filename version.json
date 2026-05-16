@@ -1,3 +1,5 @@
-3.1
-https://3ms.huawei.com/api/next/common/v1/attach/download?blogId=22297717&attachId=1445353517&gid=0
-1.新增CPU参数筛选功能 2.优化表格显示 3.修复已知bug
+{
+    "version": "3.1",
+    "download_url": "https://3ms.huawei.com/api/next/common/v1/attach/download?blogId=22297717&attachId=1445353517&gid=0",
+    "update_log": "1.新增CPU筛选功能；2.修复表格显示bug"
+}
